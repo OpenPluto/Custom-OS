@@ -1,0 +1,351 @@
+﻿4/17/2026 10:04:44 AM	Load tool settings
+4/17/2026 10:04:44 AM	NTLite v2026.4.10936 x64
+4/17/2026 10:04:44 AM	CPU threads 8
+4/17/2026 10:04:47 AM	Gather host hardware list
+4/17/2026 10:04:47 AM	 - GH
+4/17/2026 10:04:48 AM	 - Gather image list
+4/17/2026 10:04:48 AM	Save tool settings
+4/17/2026 10:04:48 AM	Load image list
+4/17/2026 10:04:48 AM	SHD
+4/17/2026 10:04:48 AM	Host: Windows 11 Professional 25H2 x64 - 10.0.26200.8246 (en-US)
+4/17/2026 10:04:48 AM	Image list checkup
+4/17/2026 10:04:50 AM	 - Gather image list
+4/17/2026 10:04:50 AM	Save tool settings
+4/17/2026 10:04:50 AM	Load image list
+4/17/2026 10:04:50 AM	Image list checkup
+4/17/2026 10:04:50 AM	Image load: Windows 10 Pro - C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim
+4/17/2026 10:04:50 AM	SM [m]: C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim
+4/17/2026 10:04:50 AM	Mounting image: C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim - Windows 10 Pro
+4/17/2026 10:04:50 AM		Mount dir: C:\Users\iCan Student\AppData\Local\Temp\NLTmpMnt
+4/17/2026 10:04:50 AM	GWH
+4/17/2026 10:07:16 AM	SM [m]: clr
+4/17/2026 10:07:16 AM	# 
+4/17/2026 10:07:19 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 10:07:19 AM	Reading data: Windows 10 Professional 22H2 x64 - 10.0.19045.2965 (en-GB)
+4/17/2026 10:07:19 AM	Gathering autocomplete files (parallel)
+4/17/2026 10:07:19 AM	- Gather hardware lists
+4/17/2026 10:07:20 AM	- Gather packages
+4/17/2026 10:07:25 AM	 - Package sorting
+4/17/2026 10:07:25 AM	 - Connecting PBC
+4/17/2026 10:07:25 AM	- Filtering packages
+4/17/2026 10:07:27 AM	- Gather existing drivers
+4/17/2026 10:07:27 AM		663 Drivers
+4/17/2026 10:07:28 AM	SPR
+4/17/2026 10:07:30 AM	- Gather services
+4/17/2026 10:07:33 AM	- Gather driver services
+4/17/2026 10:07:34 AM	- Gather scheduled tasks
+4/17/2026 10:07:35 AM	- Gather components
+4/17/2026 10:07:37 AM	- Gather languages
+4/17/2026 10:07:37 AM	- Gather keyboards
+4/17/2026 10:07:38 AM	- Gather fonts
+4/17/2026 10:07:38 AM	- Connect drivers
+4/17/2026 10:07:38 AM	- Gather tweaks
+4/17/2026 10:07:38 AM	Skipping EventLog-Application due to setup requirement
+4/17/2026 10:07:38 AM	Skipping EventLog-Security due to setup requirement
+4/17/2026 10:07:38 AM	Skipping EventLog-System due to setup requirement
+4/17/2026 10:07:38 AM	- Gather unattended data
+4/17/2026 10:07:38 AM		- Timezones
+4/17/2026 10:07:38 AM		- Keyboards
+4/17/2026 10:07:38 AM		- Locales
+4/17/2026 10:07:38 AM	- Gather unattended options
+4/17/2026 10:07:38 AM	# 
+4/17/2026 10:07:38 AM		-Loading components
+4/17/2026 10:07:38 AM	- Apply compatibility options
+4/17/2026 10:07:38 AM		-Loading Apply options
+4/17/2026 10:07:38 AM	 - Gather image list
+4/17/2026 10:07:38 AM	Save tool settings
+4/17/2026 10:07:38 AM	Load image list
+4/17/2026 10:07:38 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 10:07:39 AM	Image list checkup
+4/17/2026 10:07:39 AM		-Loading features
+4/17/2026 10:07:39 AM		-Loading drivers
+4/17/2026 10:07:39 AM		-Loading unattended
+4/17/2026 10:07:39 AM	- Gather unattended options
+4/17/2026 10:07:39 AM		-Loading tweaks
+4/17/2026 10:07:39 AM		-Loading execution list
+4/17/2026 10:07:39 AM	- Gather existing Post-Setup Machine
+4/17/2026 10:07:39 AM	- Gather existing Post-Setup User
+4/17/2026 10:07:39 AM		-Loading registry list
+4/17/2026 10:07:39 AM		-Loading updates
+4/17/2026 10:07:39 AM	# 
+4/17/2026 10:07:39 AM	# 
+4/17/2026 10:07:39 AM	- UnReg (di:0)
+4/17/2026 10:07:39 AM	Cleaning
+4/17/2026 10:07:39 AM	Waiting for other operations to finish
+4/17/2026 10:07:39 AM	Completed - Image load
+4/17/2026 10:07:39 AM	SM [po]: clr
+4/17/2026 10:07:39 AM	 - Gather image list
+4/17/2026 10:07:39 AM	Save tool settings
+4/17/2026 10:07:39 AM	Load image list
+4/17/2026 10:07:40 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 10:07:41 AM	Image list checkup
+4/17/2026 10:12:23 AM	Drivers page fill
+4/17/2026 10:12:23 AM	- Hardware list refresh
+4/17/2026 10:12:23 AM	- Listing added drivers
+4/17/2026 10:12:23 AM	- Listing hardware devices
+4/17/2026 10:12:23 AM	- Listing hardware devices
+4/17/2026 10:12:53 AM	- Listing components
+4/17/2026 10:29:00 AM	Info: Configure Windows setup choices in advance, making a fully automated installation. Enable this page with the top-left toolbar option.
+4/17/2026 10:29:09 AM	- Listing post-setup executions
+4/17/2026 10:29:13 AM	- Listing hardware devices
+4/17/2026 10:35:50 AM	Info: Select the host power plan from the list in the lower-right
+4/17/2026 10:38:05 AM	- Listing hardware devices
+4/17/2026 10:49:02 AM	- Listing hardware devices
+4/17/2026 10:51:04 AM	- Listing hardware devices
+4/17/2026 10:51:11 AM	- Listing hardware devices
+4/17/2026 10:51:17 AM	- Listing hardware devices
+4/17/2026 10:51:17 AM	- Listing hardware devices
+4/17/2026 10:51:18 AM	- Listing hardware devices
+4/17/2026 10:51:19 AM	- Listing hardware devices
+4/17/2026 10:51:39 AM	- Listing hardware devices
+4/17/2026 10:51:54 AM	- Listing hardware devices
+4/17/2026 10:51:59 AM	- Listing hardware devices
+4/17/2026 10:52:01 AM	- Listing hardware devices
+4/17/2026 10:52:02 AM	- Listing hardware devices
+4/17/2026 10:52:35 AM	- Listing hardware devices
+4/17/2026 10:53:40 AM	Start applying all of the pending changes.
+4/17/2026 10:53:40 AM	 - Gather image list
+4/17/2026 10:53:40 AM	Save tool settings
+4/17/2026 10:53:40 AM	Load image list
+4/17/2026 10:53:40 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 10:53:40 AM	Image list checkup
+4/17/2026 10:53:40 AM	# 
+4/17/2026 10:53:40 AM	- UnReg (di:0)
+4/17/2026 10:53:40 AM	Error: Aborted  [1] Incorrect function.
+4/17/2026 10:53:44 AM	SM [po]: clr
+4/17/2026 10:53:44 AM	- UnReg (di:0)
+4/17/2026 10:53:44 AM	Deleting temporary files: C:\Users\iCan Student\AppData\Local\Temp\NLTmpScratch
+4/17/2026 10:53:44 AM	Load image list
+4/17/2026 10:53:44 AM	 - Gather image list
+4/17/2026 10:53:44 AM	Save tool settings
+4/17/2026 10:53:44 AM	Load image list
+4/17/2026 10:53:45 AM	Image list checkup
+4/17/2026 10:53:48 AM	 - Gather image list
+4/17/2026 10:53:48 AM	Save tool settings
+4/17/2026 10:53:48 AM	Load image list
+4/17/2026 10:53:49 AM	Image list checkup
+4/17/2026 10:53:49 AM	Image load: Windows 10 Pro - C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim
+4/17/2026 10:53:49 AM		Existing mount dir: C:\Users\iCan Student\AppData\Local\Temp\NLTmpMnt
+4/17/2026 10:53:49 AM	SM [rm]: C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim
+4/17/2026 10:53:49 AM	Reopening image: C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim (Windows 10 Pro)
+4/17/2026 10:53:49 AM	SM [rm]: clr
+4/17/2026 10:53:49 AM	# 
+4/17/2026 10:53:49 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 10:53:49 AM	Reading data: Windows 10 Professional 22H2 x64 - 10.0.19045.2965 (en-GB)
+4/17/2026 10:53:49 AM	Gathering autocomplete files (parallel)
+4/17/2026 10:53:50 AM	- Gather hardware lists
+4/17/2026 10:53:50 AM	- Gather packages
+4/17/2026 10:53:51 AM	 - Package sorting
+4/17/2026 10:53:51 AM	 - Connecting PBC
+4/17/2026 10:53:51 AM	- Filtering packages
+4/17/2026 10:53:52 AM	- Gather existing drivers
+4/17/2026 10:53:52 AM		663 Drivers
+4/17/2026 10:53:52 AM	SPR
+4/17/2026 10:53:53 AM	- Gather services
+4/17/2026 10:53:54 AM	- Gather driver services
+4/17/2026 10:53:54 AM	- Gather scheduled tasks
+4/17/2026 10:53:54 AM	- Gather components
+4/17/2026 10:53:55 AM	- Gather languages
+4/17/2026 10:53:55 AM	- Gather keyboards
+4/17/2026 10:53:55 AM	- Gather fonts
+4/17/2026 10:53:55 AM	- Connect drivers
+4/17/2026 10:53:56 AM	- Gather tweaks
+4/17/2026 10:53:56 AM	Skipping EventLog-Application due to setup requirement
+4/17/2026 10:53:56 AM	Skipping EventLog-Security due to setup requirement
+4/17/2026 10:53:56 AM	Skipping EventLog-System due to setup requirement
+4/17/2026 10:53:56 AM	- Gather unattended data
+4/17/2026 10:53:56 AM		- Timezones
+4/17/2026 10:53:56 AM		- Keyboards
+4/17/2026 10:53:56 AM		- Locales
+4/17/2026 10:53:56 AM	- Gather unattended options
+4/17/2026 10:53:56 AM	# 
+4/17/2026 10:53:56 AM		-Loading components
+4/17/2026 10:53:56 AM	- Apply compatibility options
+4/17/2026 10:53:56 AM		-Loading Apply options
+4/17/2026 10:53:56 AM	 - Gather image list
+4/17/2026 10:53:56 AM	Save tool settings
+4/17/2026 10:53:56 AM	Load image list
+4/17/2026 10:53:56 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 10:53:56 AM	Image list checkup
+4/17/2026 10:53:56 AM		-Loading features
+4/17/2026 10:53:56 AM		-Loading drivers
+4/17/2026 10:53:56 AM		-Loading unattended
+4/17/2026 10:53:56 AM	- Gather unattended options
+4/17/2026 10:53:56 AM		-Loading tweaks
+4/17/2026 10:53:56 AM		-Loading execution list
+4/17/2026 10:53:56 AM	- Gather existing Post-Setup Machine
+4/17/2026 10:53:56 AM	- Gather existing Post-Setup User
+4/17/2026 10:53:56 AM		-Loading registry list
+4/17/2026 10:53:56 AM		-Loading updates
+4/17/2026 10:53:56 AM	# 
+4/17/2026 10:53:56 AM	# 
+4/17/2026 10:53:56 AM	- UnReg (di:0)
+4/17/2026 10:53:56 AM	Cleaning
+4/17/2026 10:53:56 AM	Waiting for other operations to finish
+4/17/2026 10:53:56 AM	Completed - Image load
+4/17/2026 10:53:56 AM	SM [po]: clr
+4/17/2026 10:53:56 AM	 - Gather image list
+4/17/2026 10:53:56 AM	Save tool settings
+4/17/2026 10:53:56 AM	Load image list
+4/17/2026 10:53:56 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 10:53:57 AM	Image list checkup
+4/17/2026 10:54:03 AM	Drivers page fill
+4/17/2026 10:54:03 AM	- Hardware list refresh
+4/17/2026 10:54:03 AM	- Listing added drivers
+4/17/2026 10:54:03 AM	- Listing hardware devices
+4/17/2026 10:54:03 AM	- Listing hardware devices
+4/17/2026 10:54:04 AM	- Listing post-setup executions
+4/17/2026 10:54:19 AM	- Listing components
+4/17/2026 10:56:57 AM	Warning: Unattended: When skipping local account wizard, make sure to add at least one local account or be part of the domain, in order to be able to logon.
+4/17/2026 10:59:14 AM	- Listing hardware devices
+4/17/2026 10:59:41 AM	- Listing hardware devices
+4/17/2026 10:59:44 AM	- Listing hardware devices
+4/17/2026 10:59:45 AM	- Listing hardware devices
+4/17/2026 11:00:05 AM	- Listing hardware devices
+4/17/2026 11:00:09 AM	Start applying all of the pending changes.
+4/17/2026 11:00:09 AM	 - Gather image list
+4/17/2026 11:00:09 AM	Save tool settings
+4/17/2026 11:00:09 AM	Load image list
+4/17/2026 11:00:09 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 11:00:09 AM	Image list checkup
+4/17/2026 11:00:09 AM	# 
+4/17/2026 11:00:09 AM	Save tool settings
+4/17/2026 11:00:09 AM	- Save preset: Auto-saved 75c4862a
+4/17/2026 11:00:09 AM	Completed - Save - Preset
+4/17/2026 11:00:09 AM	 - Gather image list
+4/17/2026 11:00:09 AM	Save tool settings
+4/17/2026 11:00:09 AM	Backup rows
+4/17/2026 11:00:09 AM	Load image list
+4/17/2026 11:00:09 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 11:00:10 AM	Restore rows
+4/17/2026 11:00:10 AM	Image list checkup
+4/17/2026 11:00:10 AM	# 
+4/17/2026 11:00:10 AM	Windows 10 Professional 22H2 x64 - 10.0.19045.2965
+4/17/2026 11:00:10 AM	# 
+4/17/2026 11:00:10 AM	# 
+4/17/2026 11:00:10 AM	# 
+4/17/2026 11:00:10 AM	RCT
+4/17/2026 11:00:10 AM	Preparing data
+4/17/2026 11:00:10 AM	 - Pre-loading selected data
+4/17/2026 11:00:12 AM	Unknown XML file content.
+4/17/2026 11:00:12 AM	Preparing data
+4/17/2026 11:00:12 AM	 - RDS
+4/17/2026 11:00:12 AM	Stack %%SystemRoot%%\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0
+4/17/2026 11:00:12 AM	RDS clean 0
+4/17/2026 11:00:12 AM	 - Collect
+4/17/2026 11:00:25 AM	 - PMR
+4/17/2026 11:00:26 AM	RAEC
+4/17/2026 11:00:26 AM	Functionality guard
+4/17/2026 11:00:26 AM	- static
+4/17/2026 11:00:26 AM	- kept components
+4/17/2026 11:00:33 AM	Disable cw
+4/17/2026 11:00:35 AM	Removing components
+4/17/2026 11:00:35 AM	- UnReg (di:1)
+4/17/2026 11:00:36 AM	Removing: 3D Viewer
+4/17/2026 11:00:36 AM	Preparing DISM
+4/17/2026 11:00:36 AM	- DI
+4/17/2026 11:00:36 AM	DA 10.0.26100.8115
+4/17/2026 11:00:37 AM	- UnReg (di:0)
+4/17/2026 11:00:39 AM	Done (3D Viewer)
+
+4/17/2026 11:00:39 AM	Removing: Cortana
+4/17/2026 11:00:40 AM	Done - 0.08 ¦ 39.0 MB (Cortana)
+
+4/17/2026 11:00:40 AM	Removing: Microsoft Defender Antivirus
+4/17/2026 11:00:40 AM	- UnReg (di:0)
+4/17/2026 11:00:43 AM	Done - 201.2 ¦ 0.4 ¦ 0.001 MB (Microsoft Defender Antivirus)
+
+4/17/2026 11:00:43 AM	Removing: Microsoft Edge (Legacy)
+4/17/2026 11:00:43 AM	- UnReg (di:0)
+4/17/2026 11:00:45 AM	Done - 20.7 ¦ 0.002 MB (Microsoft Edge (Legacy))
+
+4/17/2026 11:00:45 AM	Removing: Microsoft Edge DevTools Client
+4/17/2026 11:00:45 AM	- UnReg (di:0)
+4/17/2026 11:00:45 AM	Done (Microsoft Edge DevTools Client)
+
+4/17/2026 11:00:45 AM	Removing: Microsoft family features
+4/17/2026 11:00:45 AM	- UnReg (di:0)
+4/17/2026 11:00:46 AM	Done - 10.6 ¦ 0.001 MB (Microsoft family features)
+
+4/17/2026 11:00:46 AM	Removing: Microsoft Pay
+4/17/2026 11:00:46 AM	- UnReg (di:0)
+4/17/2026 11:00:47 AM	Done (Microsoft Pay)
+
+4/17/2026 11:00:47 AM	Removing: Microsoft People
+4/17/2026 11:00:47 AM	- UnReg (di:0)
+4/17/2026 11:00:48 AM	Done (Microsoft People)
+
+4/17/2026 11:00:48 AM	Removing: Office
+4/17/2026 11:00:48 AM	- UnReg (di:0)
+4/17/2026 11:00:50 AM	Done (Office)
+
+4/17/2026 11:00:50 AM	Removing: OneNote
+4/17/2026 11:00:50 AM	- UnReg (di:0)
+4/17/2026 11:00:51 AM	Done (OneNote)
+
+4/17/2026 11:00:51 AM	Removing: Skype
+4/17/2026 11:00:51 AM	- UnReg (di:0)
+4/17/2026 11:00:52 AM	Done (Skype)
+
+4/17/2026 11:00:52 AM	Removing: Tips (Get Started)
+4/17/2026 11:00:52 AM	- UnReg (di:0)
+4/17/2026 11:00:54 AM	Done (Tips (Get Started))
+
+4/17/2026 11:00:54 AM	Removing: Windows Maps
+4/17/2026 11:00:54 AM	- UnReg (di:0)
+4/17/2026 11:00:55 AM	Done (Windows Maps)
+
+4/17/2026 11:00:55 AM	 - DCL
+4/17/2026 11:00:55 AM	- DS
+4/17/2026 11:00:56 AM	Deleting temporary files: C:\Users\iCan Student\AppData\Local\Temp\NLTmpScratch\NLTmpS
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	CUCT
+4/17/2026 11:00:56 AM	Cleaning leftover entries
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	Applying - Tweaks
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	Applying - Unattended setup
+4/17/2026 11:00:56 AM	Unattended: start
+4/17/2026 11:00:56 AM	Unattended: saving file
+4/17/2026 11:00:56 AM	Unattended: done, code 0
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:56 AM	Applying - Post-Setup tasks
+4/17/2026 11:00:56 AM	# 
+4/17/2026 11:00:58 AM	Total removed:  232.7 MB Hard links  /  39.4 MB Files  /  0.003 MB ISO Files
+4/17/2026 11:00:58 AM	- UnReg (di:1)
+4/17/2026 11:00:59 AM	- UnReg (di:0)
+4/17/2026 11:01:01 AM	Deleting image data '6. Windows 10 Pro'
+4/17/2026 11:01:01 AM	Saving changes to the image - C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim - Windows 10 Professional 22H2 x64 - 10.0.19045.2965 (en-GB)
+4/17/2026 11:01:01 AM	SM [um]: C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim
+4/17/2026 11:01:01 AM	- UnReg (di:1)
+4/17/2026 11:04:38 AM	Deleting temporary files: C:\Users\iCan Student\AppData\Local\Temp\NLTmpMnt
+4/17/2026 11:04:38 AM	Deleting temporary files: C:\Users\iCan Student\AppData\Local\Temp\NLTmpMnt_wt
+4/17/2026 11:04:38 AM	Cleaning mount directory
+4/17/2026 11:04:38 AM	SM [um]: clr
+4/17/2026 11:04:38 AM	# 
+4/17/2026 11:04:38 AM	Remove other editions
+4/17/2026 11:04:38 AM	SM [de]: clr
+4/17/2026 11:04:38 AM	 - Gather image list
+4/17/2026 11:04:38 AM	Save tool settings
+4/17/2026 11:04:38 AM	Backup rows
+4/17/2026 11:04:38 AM	Load image list
+4/17/2026 11:04:38 AM	Restore rows
+4/17/2026 11:04:38 AM	Image list checkup
+4/17/2026 11:04:38 AM	SM [e]: C:\Users\iCan Student\Desktop\CustomOS\sources\boot.wim
+4/17/2026 11:04:38 AM	Exporting C:\Users\iCan Student\Desktop\CustomOS\sources\boot.wim:2 -> C:\Users\iCan Student\AppData\Local\Temp\NLTmpWExp9a2e3c88\boot.wim
+4/17/2026 11:04:38 AM	 - WG Export
+4/17/2026 11:04:38 AM	GWH
+4/17/2026 11:04:38 AM	Image compression: 2
+4/17/2026 11:04:38 AM	GWH
+4/17/2026 11:04:43 AM	Deleting temporary files: C:\Users\iCan Student\AppData\Local\Temp\NLTmpWEDstf92c9b23
+4/17/2026 11:04:43 AM	Deleting temporary files: C:\Users\iCan Student\AppData\Local\Temp\NLTmpWESrcf92c9b23
+4/17/2026 11:04:43 AM	SM [e]: C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim
+4/17/2026 11:04:43 AM	Exporting C:\Users\iCan Student\Desktop\CustomOS\sources\install.wim:6 -> C:\Users\iCan Student\AppData\Local\Temp\NLTmpWExp75c4862a\install.wim
+4/17/2026 11:04:43 AM	 - WG Export
+4/17/2026 11:

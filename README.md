@@ -6,3 +6,4 @@ please note that the source folder doesnt have all the files since I can't uploa
 # Requirements
 1 gb ram
 5 gb storage (6 recommended)
+ONLY TESTED IN A VM
